@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering Student
-- 💡 Interested in DevOps, Cloud,
+- 💡 Interested in DevOps, Cloud, System Engineer
 - 🚀 Learning Docker
 
 ## 🛠 Tech Stack
