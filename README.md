@@ -1,9 +1,7 @@
 ## Hi there,I'm Sun Nobparut 👋
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering Student
-- 💡 Interested in DevOps, Cloud, System Engineer
-- 🚀 Learning Docker
+Final-year Computer Engineering student who enjoys building web applications backed by solid system engineering and infrastructure knowledge. Passionate about creating scalable systems—from frontend interfaces to backend services and deployment pipelines.
 
 ## 🛠 Tech Stack
 - Linux
